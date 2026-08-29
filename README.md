@@ -10,14 +10,14 @@ Deskripsi: apa yang saya kerjakan selama magang.
 
 ### Landing Page
 - Membuat landing page berdasarkan contoh yang diberikan.
-- 
-- Landing Page 1
+
+#### Landing Page 1
 ![Landing1 Page](Screenshot_19-7-2024_172323_localhost.jpeg)
--
-- Landing Page 2
+
+#### Landing Page 2
 ![Landing2 Page](Screenshot_26-8-2024_72917_rafly.mobillamabekas.com.jpeg)
--
-- Landing Page 3
+
+#### Landing Page 3
 ![Landing3 Page](WhatsApp-Image-2024-07-22-at-22.36.59.jpeg)
 
 ### Website Donasi
