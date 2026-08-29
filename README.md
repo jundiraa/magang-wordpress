@@ -9,11 +9,18 @@ Deskripsi: apa yang saya kerjakan selama magang.
 ## Screenshot
 
 ### Landing Page
-![Landing1 Page](Screenshot_19-7-2024_172323_localhost.jpeg)
-
-![Landing2 Page](Screenshot_26-8-2024_72917_rafly.mobillamabekas.com.jpeg)
 - Membuat landing page berdasarkan contoh yang diberikan.
 
+![Landing1 Page](Screenshot_19-7-2024_172323_localhost.jpeg)
+- Landing Page 1
+
+![Landing2 Page](Screenshot_26-8-2024_72917_rafly.mobillamabekas.com.jpeg)
+- Landing Page 2
+
+![Landing3 Page](WhatsApp Image 2024-07-22 at 22.36.59.jpeg)
+- Landing Page 3
+
 ### Website Donasi
+- Membuat website donasi yang terintegrasi dengan sistem  pembayaran Tripay.
+
 ![Donasi Page](c57209126163973.6127aae317560.jpg)
--Membuat website donasi yang terintegrasi dengan sistem  pembayaran Tripay
